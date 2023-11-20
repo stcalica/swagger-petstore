@@ -52,6 +52,11 @@
 							"mode": "urlencoded",
 							"urlencoded": [
 								{
+									"key": "tags",
+									"value": "[object Object]",
+									"disabled": true
+								},
+								{
 									"description": "(Required) ",
 									"key": "name",
 									"value": "<string>"
@@ -64,10 +69,6 @@
 								{
 									"key": "id",
 									"value": "<long>"
-								},
-								{
-									"key": "tags",
-									"value": "[object Object]"
 								},
 								{
 									"description": "pet status in the store",
@@ -294,6 +295,11 @@
 							"mode": "urlencoded",
 							"urlencoded": [
 								{
+									"key": "tags",
+									"value": "[object Object]",
+									"disabled": true
+								},
+								{
 									"description": "(Required) ",
 									"key": "name",
 									"value": "<string>"
@@ -306,10 +312,6 @@
 								{
 									"key": "id",
 									"value": "<long>"
-								},
-								{
-									"key": "tags",
-									"value": "[object Object]"
 								},
 								{
 									"description": "pet status in the store",
